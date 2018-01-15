@@ -2,7 +2,6 @@
 
 
 * [moment](Library/moment/README.md)
-  - [Moment 文档](Library/moment/docs/moment.md)
 
 * [normalize.css](Library/normalize.css/README.md)
 
