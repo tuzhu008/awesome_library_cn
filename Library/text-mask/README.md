@@ -1,4 +1,4 @@
-# [![Text Mask](assets/logo.png)](https://github.com/text-mask/text-mask/#readme)
+# [![Text Mask](./logo.png)](https://github.com/text-mask/text-mask/#readme)
 
 [![Build Status](https://travis-ci.org/text-mask/text-mask.svg?branch=master)](https://travis-ci.org/text-mask/text-mask)
 
